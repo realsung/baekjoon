@@ -1,8 +1,15 @@
 # Ignore all
 *
 
-# Unignore all with extensions
-!*.*
+# Unignore .cpp files
+!*.cpp
+!*.c
+!*.py
 
-# Unignore all dirs
-!*/
+# # Unignore all with extensions
+# !*.*
+
+# # Unignore all dirs
+# !*/
+
+# .vscode/
